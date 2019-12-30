@@ -4,7 +4,7 @@ IMG = ORG>128;
 imagesc(IMG); colormap(gray); colorbar;  axis image;
 pause;
 によってできた図を図1に示す。
-!
+![2-1](https://github.com/keitotomita/gazousyori/blob/master/2-1.png)
 
 ４階調画像の生成
 IMG0 = ORG>64;
