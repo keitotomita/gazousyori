@@ -13,3 +13,4 @@ IMG2 = ORG>192;
 IMG = IMG0 + IMG1 + IMG2;
 imagesc(IMG); colormap(gray); colorbar;  axis image;
 によってできた図を図２に示す。
+![2-2]()
